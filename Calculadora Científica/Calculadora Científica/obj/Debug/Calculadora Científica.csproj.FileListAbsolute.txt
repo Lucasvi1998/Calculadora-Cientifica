@@ -1,0 +1,10 @@
+C:\Users\Lucas\source\repos\Calculadora Científica\Calculadora Científica\bin\Debug\Calculadora Científica.exe.config
+C:\Users\Lucas\source\repos\Calculadora Científica\Calculadora Científica\bin\Debug\Calculadora Científica.exe
+C:\Users\Lucas\source\repos\Calculadora Científica\Calculadora Científica\bin\Debug\Calculadora Científica.pdb
+C:\Users\Lucas\source\repos\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora_Científica.Properties.Resources.resources
+C:\Users\Lucas\source\repos\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.exe
+C:\Users\Lucas\source\repos\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.pdb
+C:\Users\Lucas\source\repos\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora_Científica.btnMs.resources
